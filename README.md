@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/moustaphandiaye1824/Space%20Game%20-%20web/_apis/build/status%2FMoustaphaNdiaye1824.mslearn-tailspin-spacegame-web%20(14)?branchName=main)](https://dev.azure.com/moustaphandiaye1824/Space%20Game%20-%20web/_build/latest?definitionId=14&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
